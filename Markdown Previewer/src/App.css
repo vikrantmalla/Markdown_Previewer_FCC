@@ -1,0 +1,46 @@
+.App {
+    text-align: center;
+}
+
+.App-header {
+    background-color: #222;
+    height: 50px;
+    padding: 20px;
+    color: white;
+}
+
+.App-title {
+    font-size: 1.5em;
+}
+
+.box {
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    font-size: 100%;
+    margin: 2vw 9vw;
+    min-height: 75vh;
+    width: 30%;
+    word-wrap: break-word;
+}
+
+.left {
+    background-color: #FFE4E1;
+    float: left;
+    text-align: center;
+}
+
+textarea {
+    border: none;
+    resize: none;
+}
+
+.right {
+    background-color: #E6E6FA;
+    float: right;
+    text-align: center;
+}
+
+.right img {
+    width: 30%;
+    height: 30%;
+}
